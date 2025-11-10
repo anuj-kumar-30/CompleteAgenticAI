@@ -1,19 +1,19 @@
 # CompleteAgenticAI
 Complete Agentic AI course with edwarddoner...
 
-[Instructor REPO](https://github.com/ed-donner/agents.git)
-
+[Instructor REPO](https://github.com/ed-donner/agents.git)<br>
+[Vellum LeaderBoard](https://www.vellum.ai/llm-leaderboard?utm_source=google&utm_medium=organic#compare)
 
 ## Course Progress Todo
 
 <details>
 <summary>Week 1: Foundation</summary>
 
-- [x] Day 01 (Introduction and overview)
-- [ ] Day 02 (Setting up the environment)
-- [ ] Day 03 (Python basics refresher)
-- [ ] Day 04 (Understanding AI foundations)
-- [ ] Day 05 (Mini project or quiz)
+- [x] Day 01 (Make an agentic workflow)
+- [x] Day 02 (Agents and Agentic patterns)
+- [x] Day 03 (Orchestrating agents/LLM)
+- [ ] Day 04 (Autonomy & Tools)
+- [ ] Day 05 (PROJECT:01 Our Personal carrer agent)
 
 </details>
 

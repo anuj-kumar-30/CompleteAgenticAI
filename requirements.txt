@@ -2,3 +2,7 @@ google-genai
 google-adk
 dotenv
 litellm
+
+# ed donner course
+openai
+groq
